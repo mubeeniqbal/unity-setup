@@ -1,13 +1,14 @@
 ﻿/**
+ * @copyright Copyright (C) #COMPANY# #YEAR# - All rights reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * 
  * @file #SCRIPTNAME#.cs
  * @date #DATE#
  * @author #AUTHOR# <#AUTHOR_EMAIL#>
  * @product #PRODUCT#
- * @license #LICENSE# <#LICENSE_URL#>
  * @company #COMPANY# <#COMPANY_URL#> <#COMPANY_EMAIL#>
- * @copyright Copyright (c) #COMPANY# #YEAR#
- * 
- * All rights reserved.
+ * @license #LICENSE# <#LICENSE_URL#>
  * 
  * @description
  * #DESCRIPTION#
