@@ -80,6 +80,12 @@ public class TemplateVariableParser : UnityEditor.AssetModificationProcessor {
 
         path = path.Replace(".meta", "");
         int index = path.LastIndexOf(".");
+
+        // Check for a file extension.
+        if (index == -1) {
+            return;
+        }
+
         string file = path.Substring(index);
         
         if ((file != ".cs") && (file != ".js") && (file != ".boo")) {
