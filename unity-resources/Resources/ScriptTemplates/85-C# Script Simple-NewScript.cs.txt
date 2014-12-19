@@ -25,9 +25,7 @@
 public class #SCRIPTNAME# {
 // public:
     
-    
 // internal:
-    
     
 // private:
     

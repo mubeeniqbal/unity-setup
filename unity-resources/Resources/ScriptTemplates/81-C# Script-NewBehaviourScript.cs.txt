@@ -27,7 +27,6 @@ using UnityEngine;
 public class #SCRIPTNAME# : MonoBehaviour {
 // public:
     
-    
 // internal:
     void Start() {
     }
