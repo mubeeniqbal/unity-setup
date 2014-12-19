@@ -14,6 +14,12 @@
  * #DESCRIPTION#
  */
 
+// .NET namespaces.
+
+// Unity namespaces.
+
+// User defined namespaces.
+
 public class #SCRIPTNAME# {
 // public:
     

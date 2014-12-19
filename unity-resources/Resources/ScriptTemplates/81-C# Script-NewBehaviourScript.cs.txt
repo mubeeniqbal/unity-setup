@@ -14,8 +14,13 @@
  * #DESCRIPTION#
  */
 
-using UnityEngine;
+// .NET namespaces.
 using System.Collections;
+
+// Unity namespaces.
+using UnityEngine;
+
+// User defined namespaces.
 
 public class #SCRIPTNAME# : MonoBehaviour {
 // public:
