@@ -1,8 +1,9 @@
 ﻿/**
+ * @license MIT <http://opensource.org/licenses/MIT>
+ * 
  * @file TemplateVariableParser.cs
  * @date 2014-12-16 20:01:34 UTC+05:00
  * @author Mubeen Iqbal <mubeen.ace@gmail.com>
- * @license MIT <http://opensource.org/licenses/MIT>
  * 
  * @description
  * Destination path: $PROJECT_HOME/Assets/Editor/TemplateVariableParser.cs

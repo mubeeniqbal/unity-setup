@@ -3,12 +3,13 @@
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
  * 
+ * @license #LICENSE# <#LICENSE_URL#>
+ * 
  * @file #SCRIPTNAME#.cs
  * @date #DATE#
  * @author #AUTHOR# <#AUTHOR_EMAIL#>
  * @product #PRODUCT#
  * @company #COMPANY# <#COMPANY_URL#> <#COMPANY_EMAIL#>
- * @license #LICENSE# <#LICENSE_URL#>
  * 
  * @description
  * #DESCRIPTION#
