@@ -18,6 +18,8 @@
 
 // Unity namespaces.
 
+// Library namespaces.
+
 // User defined namespaces.
 
 public class #SCRIPTNAME# {

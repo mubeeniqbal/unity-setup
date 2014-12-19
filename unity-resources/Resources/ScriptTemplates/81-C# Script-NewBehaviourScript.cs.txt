@@ -20,6 +20,8 @@ using System.Collections;
 // Unity namespaces.
 using UnityEngine;
 
+// Library namespaces.
+
 // User defined namespaces.
 
 public class #SCRIPTNAME# : MonoBehaviour {
