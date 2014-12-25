@@ -84,3 +84,6 @@ and whenever you will create a C# script from within Unity it will have the comm
 
     // @author Linus Torvalds <torvalds@kruuna.helsinki.fi>
     // @date 1991-08-25 10:05:46 UTC+02:00
+
+## TODO
+[ ] Automate builds for Unity preferably with Jenkins. Write script(s) which work on both Windows and OS X.
